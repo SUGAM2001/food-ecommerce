@@ -1,22 +1,19 @@
-# food-ecommerce
+# food-eCommerce
 
-A website to sell food products online
+A website to sell food products online.
 
 * mobile friendly
 
 ## technologies used
 
-* HTML
-* CSS
-* JQuery
-* JavaScript
+* `HTML`
+* `CSS`
+* `JQuery`
+* `JavaScript`
 
 download zip or clone repo (all required files are included)
 
-### view the website here.
-
-https://peter-kimanzi.github.io/food-ecommerce/
-
+View the website [here](https://peter-kimanzi.github.io/food-ecommerce/)
 
 ## Screenshots.
 
