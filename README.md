@@ -23,9 +23,9 @@ View the website [here](https://peter-kimanzi.github.io/food-ecommerce/)
 
 ![foody3](https://user-images.githubusercontent.com/71552773/205292490-dfcc1bd5-09c5-4eb7-9ae3-95a88bfd2779.PNG)-->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71552773/205292467-c0c82227-eb98-4f2c-ad01-6ac64232dac4.PNG" alt="foody2" height="165">
-  <img src="https://user-images.githubusercontent.com/71552773/205292439-432dc63d-d6a9-4f1b-aacb-b72d10f80151.PNG" alt="foody" height="165">
-  <img src="https://user-images.githubusercontent.com/71552773/205292490-dfcc1bd5-09c5-4eb7-9ae3-95a88bfd2779.PNG" alt="foody3" height="165">
+  <img src="https://user-images.githubusercontent.com/71552773/205292467-c0c82227-eb98-4f2c-ad01-6ac64232dac4.PNG" alt="foody2" height="150">
+  <img src="https://user-images.githubusercontent.com/71552773/205292439-432dc63d-d6a9-4f1b-aacb-b72d10f80151.PNG" alt="foody" height="150">
+  <img src="https://user-images.githubusercontent.com/71552773/205292490-dfcc1bd5-09c5-4eb7-9ae3-95a88bfd2779.PNG" alt="foody3" height="150">
 </p>
 
 
